@@ -1,0 +1,15 @@
+filename = "ClubsportifdeMetz-2020-05-08T23-10-17"
+description = "version 10
+style page
+email field install --> auto subscription
+comments style"
+datestamp = "1588972240"
+generator = "Backup and Migrate (http://drupal.org/project/backup_migrate)"
+generatorversion = "7.x-3.x"
+siteurl = "http://localhost:8082/drupal7.1/"
+sitename = "Club sportif de Metz"
+drupalversion = "7.69"
+filesize = "20161792"
+bam_sourceid = "archive"
+bam_sourcetype = "archive"
+bam_sourcename = "Entire Site (code, files & DB)"

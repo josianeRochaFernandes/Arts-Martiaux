@@ -1,0 +1,14 @@
+filename = "ClubsportifdeMetz-2020-05-09T23-08-23"
+description = "version 11
+ajouter un nouveau commentaire mais en compte facebook uniquement
+-- admin --> Silvie Lecroix"
+datestamp = "1589058533"
+generator = "Backup and Migrate (http://drupal.org/project/backup_migrate)"
+generatorversion = "7.x-3.x"
+siteurl = "http://localhost:8082/drupal7.1/"
+sitename = "Club sportif de Metz"
+drupalversion = "7.69"
+filesize = "20235776"
+bam_sourceid = "archive"
+bam_sourcetype = "archive"
+bam_sourcename = "Entire Site (code, files & DB)"

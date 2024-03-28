@@ -1,0 +1,14 @@
+filename = "ClubsportifdeMetz-2020-05-02T23-33-53"
+description = "version 6 - 2 mai 2020
+changement de police
+ajouter css pour mobile"
+datestamp = "1588455263"
+generator = "Backup and Migrate (http://drupal.org/project/backup_migrate)"
+generatorversion = "7.x-3.x"
+siteurl = "http://localhost:8082/drupal7.1/"
+sitename = "Club sportif de Metz"
+drupalversion = "7.69"
+filesize = "18468634"
+bam_sourceid = "archive"
+bam_sourcetype = "archive"
+bam_sourcename = "Entire Site (code, files & DB)"

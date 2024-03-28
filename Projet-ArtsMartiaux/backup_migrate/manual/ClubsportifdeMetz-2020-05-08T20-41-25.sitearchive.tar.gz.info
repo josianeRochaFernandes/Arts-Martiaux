@@ -1,0 +1,13 @@
+filename = "ClubsportifdeMetz-2020-05-08T20-41-25"
+description = "version 9 - 
+style page taxonomy artsmartiaux"
+datestamp = "1588963327"
+generator = "Backup and Migrate (http://drupal.org/project/backup_migrate)"
+generatorversion = "7.x-3.x"
+siteurl = "http://localhost:8082/drupal7.1/"
+sitename = "Club sportif de Metz"
+drupalversion = "7.69"
+filesize = "20322740"
+bam_sourceid = "archive"
+bam_sourcetype = "archive"
+bam_sourcename = "Entire Site (code, files & DB)"
